@@ -1,0 +1,19 @@
+
+div{
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+
+
+.hover-panel-strip {width : 99% !IMPORTANT; padding-left: 50%;  }
+
+.hover-panel-content {width : 99% !IMPORTANT; position: absolute; z-index : 2000;   }
+
+.hover-panel-content .ui-icon {float : right;}
+
+
+
+
+
